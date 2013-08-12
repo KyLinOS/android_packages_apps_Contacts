@@ -19,7 +19,7 @@ package com.android.contacts;
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Typeface;
-import android.mokee.location.PhoneLocation;
+import android.kylin.location.PhoneLocation;
 import android.provider.ContactsContract.CommonDataKinds.Phone;
 import android.telephony.PhoneNumberUtils;
 import android.text.SpannableString;
